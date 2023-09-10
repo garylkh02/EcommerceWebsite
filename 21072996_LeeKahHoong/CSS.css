@@ -1,0 +1,247 @@
+.login{
+    width: 460px;
+    height: 600px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    margin:auto;
+    padding: 30px 30px 30px 30px;
+    background-color: #FFFFFF;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.signupbox{
+    width: 480px;
+    height: auto;
+    border: 1px solid #000000;
+    border-radius: 25px;
+    margin:auto;
+    padding: 30px 30px 30px 30px;
+    background-color: #FFFFFF;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.inputsize{
+    height: 35px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    margin:auto;  
+    padding: 5px; 
+    font-size: 16px; 
+
+}
+
+th{
+    text-align: left;
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+
+}
+.signupbuttom{
+    margin-top: 30px;
+    width: 405px;
+    height: 40px;
+    background-color:#FFFFFF;
+    color: #555555;
+    align-content: center;
+    border: 1px solid #555555;
+    font-size: 20px;
+    padding:5px;
+    font-weight: 400;
+
+}
+.signupbuttom:hover{
+    background-color: #555555;
+    border: 3px solid #555555;
+    color:#FFFFFF;
+    
+}
+
+input:focus {
+    outline: 2px solid #5189dc;
+    
+}
+select:focus{
+    outline: 2px solid #5189dc;
+}
+.imgicon{
+    width: 40px;
+    height: 40px;
+
+}
+.loginword{
+    height: 35px;
+    width: 300px;
+    border:none;
+    border-bottom: 1px solid #000000;
+    margin:auto;  
+    padding: 5px; 
+    font-size: 16px;
+}
+.loginbuttom{
+    margin-top: 30px;
+    width: 352px;
+    height: 40px;
+    background-color:#FFFFFF;
+    color: #555555;
+    align-content: center;
+    border: 1px solid #555555;
+    font-size: 20px;
+    padding:5px;
+    font-weight: 400;
+
+}
+.loginbuttom:hover{
+    background-color: #555555;
+    border: 3px solid #555555;
+    color:#FFFFFF;
+    
+}
+
+.signupnow{
+    color:#555555;
+    text-decoration: none;
+}
+.signupnow:hover{
+    text-decoration: underline;
+}
+
+.contactbox{
+    width: 1100px;
+    height: 660.6px;
+    border: 1px solid #4e5c70;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    box-shadow: 5px 10px #c5c0c0;
+}
+
+.contactbox:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.contentleft {
+    float: left;
+    width: 45%;
+    height:660.6px;
+    padding: 50px;
+    background-color:#4e5c70;
+    border-radius: 10px;
+    color:#FFFFFF;
+
+  }
+.contentright {
+    float: left;
+    width: 55%;
+    height:660.60px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #FFFFFF; 
+}
+
+textarea{
+    width: 528px;
+    height:245px;
+    resize:none;
+}
+
+textarea:focus{
+    outline: 2px solid #5189dc;
+}
+
+.sendbuttom{
+    width:200px;
+    height: 60px;
+    border-radius: 5px;
+    border: 1px solid #4e5c70;
+    background-color: #4e5c70;
+    color:#FFFFFF;
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+.sendbuttom:hover{    
+    text-decoration: underline;
+}
+.storebox{
+    width: 1100px;
+    height: auto;
+    border: 1px solid #d0c9c9e0;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+}
+
+.storebox:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.storeleft {
+    float: left;
+    width: 48%;
+    height:660.60px;
+    padding: 30px;
+    background-color:#6b809c;
+    border-radius: 10px;
+    overflow: auto;
+  }
+#storeright {
+    float: left;
+    width: 52%;
+    height:660.60px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #FFFFFF; 
+}
+
+.location{
+    width: 450px;
+    height: 300px;
+    padding: 20px;
+    background-color:#FFFFFF;
+    box-shadow: 5px 10px #4e5c70;
+    margin-bottom: 30px;
+
+
+}
+
+.locationicon{
+    width: 30px;
+    height: 30px;
+}
+.viewmapbutton{
+    margin-top: 30px;;
+    border: 2px solid #4e5c70;
+    border-radius: 25px;
+    padding:5px;
+    text-align: center; 
+    width:200px;
+    background-color: #FFFFFF;
+}
+
+.viewmapbutton:hover{
+    background-color: #4e5c70;
+    color: #FFFFFF;
+}
+
+.loginpageword{
+    color:#555555;
+}
+
+.loginpageword:visited{
+    text-decoration: none;
+    color: #555555;
+}
+
+.loginpageword:hover{
+    background-color: #e6e0e0;
+}
